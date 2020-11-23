@@ -3,7 +3,9 @@
 Recommended: Use anaconda or miniconda. 
 
 `git clone https://github.com/alexmanuele/interactive_asv_table_summary.git`
+
 `cd interactive_asv_table_summary`
+
 `conda env create -f environment.yml`
 
 # Usage
