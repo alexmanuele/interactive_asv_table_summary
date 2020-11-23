@@ -12,4 +12,5 @@ Simply activate the conda environment and run the file.
 This will launch a dash server in localhost:8050. Open you rinternet browser of choice and navigate to localhost:8050
 
 `conda activate itables`
+
 `python interactive.py`
