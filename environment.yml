@@ -1,4 +1,4 @@
-name: dianatables
+name: itables
 channels:
   - qiime2/label/r2020.8
   - conda-forge
